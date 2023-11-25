@@ -1,0 +1,5 @@
+[workspace]
+
+members = [
+    "multi_producers_multi_locked_consumers",
+]
